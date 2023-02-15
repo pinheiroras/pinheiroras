@@ -1,4 +1,3 @@
-<img src="https://media3.giphy.com/media/sULKEgDMX8LcI/giphy.gif?cid=ecf05e47m54lw0cv57cwhkxz8ddtawm2uyzef7lb1lwty04a&rid=giphy.gif&ct=g" width="25px">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Defensoria Publica
